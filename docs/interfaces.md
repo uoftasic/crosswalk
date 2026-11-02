@@ -23,5 +23,5 @@
 - Input: single-ended, 0 to Vref (= VDD).
 - Output: unsigned binary, 0 to 255.
 - Clocking: synchronous.
-- 
+  
 **Frame:** P0 sample, P1 to P8 bit decisions, P9 output capture.
