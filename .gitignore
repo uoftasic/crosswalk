@@ -9,3 +9,10 @@ test/sim_build
 test/__pycache__/
 test/results.xml
 test/gate_level_netlist.v
+
+# Simulation output
+test/digital/sim_build/
+test/digital/results.xml
+test/digital/tb.fst
+test/digital/__pycache__/
+*.raw
